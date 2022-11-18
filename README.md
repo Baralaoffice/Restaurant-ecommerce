@@ -1,1 +1,1 @@
-# Restaurant-ecommerce
+# restaurant-commerce
