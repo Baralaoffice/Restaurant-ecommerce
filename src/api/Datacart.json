@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Fresh Orange",
+        "price": 29,
+        "btn": "Add to cart",
+        "img": "./img/Group_1616-removebg-preview-300x233.png.webp"
+    },
+    {
+        "name": "Oat Cake",
+        "price": 29,
+        "btn": "Add to cart",
+        "img": "./img/product8-removebg-preview-1.png.webp"
+    },
+    {
+        "name": "Red Apple Envy",
+        "price": 29,
+        "btn": "Add to cart",
+        "img": "./img/h3-product5-1.png.webp"
+    },
+    {
+        "name": "Organic Rice",
+        "price": 29,
+        "btn": "Add to cart",
+        "img": "./img/product6-removebg-preview-1.png.webp"
+    }
+ ]
